@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Story App</string>
+    <string name="text">Text</string>
+    <string-array name="stories_names">
+        <item>Birble The Just </item>
+        <item>Companionship Among Friends </item>
+        <item>Nasir Wish </item>
+        <item>Tenali Raman And A Handful Of Grain </item>
+        <item>Tenali Raman And The Weight lifter </item>
+        <item>the Best Friend </item>
+        <item>The Crab And The Stork </item>
+        <item>The Cunning Wolf </item>
+        <item>The Foolish Goat </item>
+        <item>The Honest Wood Cutter </item>
+        <item>The Old Tree With Great Moral </item>
+        <item>The Rich Man Son </item>
+        <item>The Thirsty Crow </item>
+        <item>Tortoise And Bird </item>
+    </string-array>
+</resources>
